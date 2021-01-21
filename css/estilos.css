@@ -1,9 +1,13 @@
 body
 {
+<<<<<<< HEAD
     color: #blue;
+=======
+    color: #purple;
+>>>>>>> cabecera
     text-align: center;
     font-family: "Arial";
-    font-size: 16px;
+    font-size: 26px;
     margin: 0;
     padding: 0;
 }
